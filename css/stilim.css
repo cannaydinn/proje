@@ -1,0 +1,29 @@
+#main{
+    text-align: center;
+}
+.genelBaslik{
+    color: rgb(190, 44, 44);
+}
+#page{
+    margin-right: 10px;
+}
+.sayfaBasliklari{
+    color: purple;
+}
+#altBaslik{
+    color: yellowgreen;
+}
+ul{
+    display: inline-block;
+}
+ol{
+    font-size: 20px;
+    display: inline-block;
+}
+h4{
+    color: coral;
+    text-align: left;
+}
+.lorem{
+    text-align: left;
+}
