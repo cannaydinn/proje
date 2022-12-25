@@ -1,0 +1,2 @@
+# proje
+ Projemi tasarlıyorum
